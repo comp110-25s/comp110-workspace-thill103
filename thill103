@@ -1,0 +1,4 @@
+git config --global user.email "thill103@ad.unc.edu"
+git config --global user.email
+
+git config user.email
